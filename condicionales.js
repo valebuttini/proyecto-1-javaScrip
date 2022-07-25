@@ -50,6 +50,10 @@ while(entrada != "0" ){
             alert("hola hola hola hola hola hola hola hola hola");
             break;  
         case "10":
+            alert("hola hola hola hola hola hola hola hola hola hola");
+             break;  
+
+   }
 console.log(entrada)
 entrada = prompt("Ingresar un numero");
 }
