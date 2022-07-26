@@ -5,7 +5,10 @@
     // let conteo= numero + i;
     // console.log( numero +"+"+ i + "=" + conteo);
 // }
-// Pedir un texto mediante prompt, concatenar un valor en cada repetición, realizando una salida por cada resultado, hasta que se ingresa “ESC”.
+
+
+
+// 2- Pedir un texto mediante prompt, concatenar un valor en cada repetición, realizando una salida por cada resultado, hasta que se ingresa “ESC”.
 
 // let campeones= prompt("ingrese los ultimos 3 ganadores del balon de oro FIFA de a uno (ESC para salir)");
 // let ganadores="";
@@ -16,7 +19,8 @@
 // }
 // console.log("los ultimos tres ganadores del balon de oro son: " + ganadores);
 
-// Pedir un número por prompt, repetir la salida del mensaje “Hola” la cantidad de veces ingresada.
+
+// 3- Pedir un número por prompt, repetir la salida del mensaje “Hola” la cantidad de veces ingresada.
 
 
 let entrada = prompt("Ingresar un numero del 1 al 10(0 para salir)");
